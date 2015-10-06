@@ -1,3 +1,7 @@
+# Lettered circles
+
+![Picture 1](css/view.png)
+
 ###Task
 
 User stories:

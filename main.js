@@ -2,7 +2,7 @@ var i = 0;
 $('#area').bind('click', function (e) {
 
     var letters = $('#letcirc').val();
-    var firstletter = letters.charAt(0);
+    var firstletter = letters.charAt(0); 
   
     $('#letcirc').val(
     function (index, value) {
