@@ -1,0 +1,18 @@
+.circle {
+    position: absolute;
+    display: block;
+    background: black;
+    width:100px;
+    height:100px;
+    text-align: center;
+    line-height: 100px;
+    border:1px solid black;
+    border-radius:100px 100px 100px 100px;
+    background: radial-gradient(circle at 50px 50px, #1cabff,     #000);
+    opacity: 0.8;
+}
+
+#area {
+    width:800px;
+    height:800px;
+}
