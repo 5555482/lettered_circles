@@ -1,7 +1,5 @@
 # Lettered circles
 
-The link: http://jsfiddle.net/5555482/2h8xfyg2/4/show/
-
 ![Picture 1](css/view.png)
 
 ###Task
